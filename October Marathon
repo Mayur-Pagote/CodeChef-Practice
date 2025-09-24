@@ -1,0 +1,9 @@
+# cook your dish here
+hr = int(input())
+if hr < 3:
+    print("GOLD")
+elif hr < 6 and hr >= 3:
+    print("SILVER")
+else:
+    print("BRONZE")
+    
