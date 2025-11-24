@@ -1,4 +1,4 @@
-# cook your dish here
+
 S = input()
 if S == "WECNITK":
     print("Welcome to Web Club!")
