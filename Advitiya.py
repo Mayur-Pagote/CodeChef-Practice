@@ -1,4 +1,3 @@
-# cook your dish here
 
 user_input = int(input())
     
