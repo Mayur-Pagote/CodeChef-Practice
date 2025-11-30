@@ -1,4 +1,3 @@
-
 S = input()
 if S == "WECNITK":
     print("Welcome to Web Club!")
